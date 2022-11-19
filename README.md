@@ -7,19 +7,14 @@
 ### ⚙️ My Toolkits
 
 ![linux][linux-icon] ![vscode][vscode-icon] ![python][python-icon] ![javascript][javascript-icon]
-
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![plotly][plotly-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] ![DVC][dvc-icon]
 
 ![kafka][kafka-icon] ![airflow][airflow-icon] ![spark][spark-icon]
-
 ![flask][flask-icon] ![fastapi][fast-api-icon] 
-
 ![mysql][mysql-icon] ![postgress][postgress-icon] ![redis][redis-icon] ![dbt][dbt-icon]
 
 ![react][react-icon] ![streamlit][streamlit-icon]
-
 ![GitHub-Actions][github-action-icon] ![docker][docker-icon]
-
 ![ethereum][ethereum-icon]
 
 ---
