@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋, I'm Natnael Melese.
+😊 Machine learning engineer with software engineering experience. Proficient in python, javascript, flutter, MLOps, and data analysis frameworks with further experience in developing and deploying various ML models. Have an accountable, and analytical approach to problems. Humble and reliable person.
+
+---
+### 🔗 Links
+- <img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium" width="15" height="15"/> [Medium Blog](https://medium.com/@natnaelmelese)
+- <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="15" height="15"/> [LinkedIn](https://www.linkedin.com/in/natnael-melese/)
+- <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="LinkedIn" width="15" height="15"/> [Stackoverflow](https://stackoverflow.com/users/11862354/nathyrix)
+
+---
+### 🖥 Toolkits
 
 <!--
 **natyrix/natyrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
