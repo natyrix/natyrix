@@ -2,6 +2,7 @@
 😊 Machine learning engineer with software engineering experience. Proficient in python, javascript, flutter, MLOps, and data analysis frameworks with further experience in developing and deploying various ML models. Have an accountable, and analytical approach to problems. Humble and reliable person.
 - ⚡️ A lover of Stars ✨ or Astronomy 👩‍🚀 ✨ 🛸 🌌
 ---
+
 ### ⚙️ My Toolkits
 
 ![linux][linux-icon] ![vscode][vscode-icon] ![python][python-icon] ![javascript][javascript-icon]
@@ -57,12 +58,9 @@
 [raspberry-pi-icon]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi
 [airflow-icon]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white
 [spark-icon]: https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16
-
 [ethereum-icon]: https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white
 
-
 <!--
-
 - <img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium" width="15" height="15"/> [Medium Blog](https://medium.com/@natnaelmelese)
 - <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="15" height="15"/> [LinkedIn](https://www.linkedin.com/in/natnael-melese/)
 - <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="LinkedIn" width="15" height="15"/> [Stackoverflow](https://stackoverflow.com/users/11862354/nathyrix)
