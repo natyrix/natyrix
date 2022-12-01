@@ -24,7 +24,9 @@
 &nbsp;<a href="https://medium.com/@natnaelmelese" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> &nbsp;  
 <br />
 ### 🖥 Links
-- <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="LinkedIn" width="15" height="15"/> [Stackoverflow](https://stackoverflow.com/users/11862354/nathyrix)
+- <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="" width="15" height="15"/> [Stackoverflow](https://stackoverflow.com/users/11862354/nathyrix)
+- <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="15" height="15"/> [LeetCode](https://leetcode.com/natyrix/)
+
 
 
 [linux-icon]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
