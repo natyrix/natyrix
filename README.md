@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Natnael Melese.
-😊 Machine learning engineer with software engineering experience. Proficient in python, javascript, flutter, MLOps, and data analysis frameworks with further experience in developing and deploying various ML models. Have an accountable, and analytical approach to problems.  Also a Theoretical CS enthusiast.
+😊 Machine learning engineer with software engineering background. Proficient in python, javascript, flutter, MLOps, and data analysis frameworks with further experience in developing and deploying various ML models. Have an accountable, and analytical approach to problems.  Also a Theoretical CS enthusiast.
 - ⚡️ A lover of Stars ✨ or Astronomy 👩‍🚀 ✨ 🛸 🌌
 ---
 <!-- Machine Learning engineer with 2 years of work experience. Software Engineering background with proficiency
