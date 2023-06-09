@@ -2,7 +2,7 @@
 😊 Machine learning engineer with software engineering background. Proficient in python, javascript, flutter, MLOps, and data analysis frameworks with further experience in developing and deploying various ML models. Have an accountable, and analytical approach to problems.  Also a Theoretical CS enthusiast.
 - ⚡️ A lover of Stars ✨ or Astronomy 👩‍🚀 ✨ 🛸 🌌
 ---
-[![github stats](https://github-readme-stats.vercel.app/api?username=natyrix&count_private=true&show_icons=true&theme=dark)](https://github.com/hengkx/hengkx)
+[![github stats](https://github-readme-stats.vercel.app/api?username=natyrix&count_private=true&show_icons=true&theme=dark)](https://github.com/natyrix)
 ---
 <!-- Machine Learning engineer with 2 years of work experience. Software Engineering background with proficiency
 in Python, JavaScript, C#, MLOps, DevOps, SQL, Containerization,and data analysis frameworks with further
